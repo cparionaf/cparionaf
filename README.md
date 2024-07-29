@@ -52,8 +52,6 @@ With over 7 years of experience in the tech industry, I specialize in designing 
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlospariona&show_icons=true&theme=radical)
-
 ### 📫 Contact
 
 - Email: carlos.parionafa@gmail.com
