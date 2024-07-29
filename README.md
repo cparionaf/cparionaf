@@ -54,10 +54,10 @@ With over 7 years of experience in the tech industry, I specialize in designing 
 
 ### 📫 Contact
 
-- Email: carlos.parionafa@gmail.com
+- Email: info@carlospariona.dev
 - Phone: +51945836310
 - Location: Lima, Peru
-- LinkedIn: [Carlos Pariona](https://www.linkedin.com/in/carlospariona)
+- LinkedIn: [Carlos Pariona](https://www.linkedin.com/in/carlos-pariona/)
 
 ---
 
