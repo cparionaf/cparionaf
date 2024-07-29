@@ -1,6 +1,6 @@
 # Carlos Pariona
 
-## 🚀 Solutions Architect |  DevSecOps Enthusiast | Cloud Engineer
+## 🚀 Solutions Architect |  DevSecOps | Cloud Engineer
 
 With over 7 years of experience in the tech industry, I specialize in designing and implementing scalable cloud-based solutions, increasing system performance and reducing infrastructure costs. I lead infrastructure teams driving AWS adoption and spearhead DevSecOps practices across organizations.
 
