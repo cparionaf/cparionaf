@@ -25,16 +25,17 @@ With over 7 years of experience in the tech industry, I specialize in designing 
 
 ### 💼 Professional Experience
 
-#### Solutions Architect, Materia Gris S.A.C (April 2024-Present)
+#### Solutions Architect, Caleidos Media S.A.C (January 2025-Present)
+- Architect solutions to stakeholders, emphasizing benefits, cost efficiency, and security
+- Led documentation of software engineering processes and procedures
+
+#### Solutions Architect, Materia Gris S.A.C (October 2023-December 2024)
 - Led design of scalable microservices architectures, increasing system reliability by 35%
 - Presented solutions to stakeholders, emphasizing benefits, cost efficiency, and security
 - Led documentation of software engineering processes and procedures
-
-#### Cloud Engineer, Materia Gris S.A.C (October 2023-April 2024)
 - Implemented Infrastructure as Code, reducing setup time by 70%
-- Led migration from Azure to AWS, optimizing expenses by 27% and boosting performance by 35%
 
-#### Cofounder & Cloud Engineer, Cyma Solutions (January 2023-October 2023)
+#### Cloud Engineer, Cyma Solutions (January 2023-October 2023)
 - Streamlined AWS account management, reducing administrative overhead by 40%
 - Optimized WordPress websites, increasing load speeds by 40%
 - Managed containerized applications on AWS ECS and Beanstalk
