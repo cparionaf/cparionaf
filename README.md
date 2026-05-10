@@ -1,19 +1,19 @@
 <h1 align="center">Carlos Pariona Falcon</h1>
 
 <p align="center">
-  <strong>Solutions Architect · Platform Engineer · DevSecOps</strong><br/>
-  Building secure, cost-efficient cloud infrastructure for financial platforms
+  <b>Solutions Architect · Platform Engineer · DevSecOps</b><br/>
+  Building secure, cost-efficient cloud infrastructure for financial platforms · Lima, Peru
 </p>
 
 <p align="center">
-  <a href="https://carlospariona.dev" target="_blank">
+  <a href="https://carlospariona.dev">
     <img src="https://img.shields.io/badge/Portfolio-carlospariona.dev-0d9488?style=flat-square&logo=astro&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-pariona" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-pariona">
     <img src="https://img.shields.io/badge/LinkedIn-carlos--pariona-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:info@carlospariona.dev">
-    <img src="https://img.shields.io/badge/Email-info@carlospariona.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:hello@carlospariona.dev">
+    <img src="https://img.shields.io/badge/Email-hello@carlospariona.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -82,11 +82,10 @@
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cparionaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cparionaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cparionaf&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
