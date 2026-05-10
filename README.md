@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-carlos--pariona-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hello@carlospariona.dev">
-    <img src="https://img.shields.io/badge/Email-info@carlospariona.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-hello@carlospariona.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
